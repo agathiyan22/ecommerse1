@@ -182,8 +182,8 @@
 	 
 	 .button{
 		    background-color: #7703fc;
-    padding: 8px 60px;
-    width: 99%;    margin: 30px 8px;
+    padding: 8px 0px;
+    width: 99%;    margin: 30px 0px;
 	border-radius:5px;
 	color:white;
 	font-size:10px;
